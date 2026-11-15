@@ -50,6 +50,10 @@ flowchart LR
 
 HubSpot · Clay · Claude (Anthropic) · Slack
 
+## Related
+
+- [account-research-agent](https://github.com/Madangk/account-research-agent): one-page account briefs with MEDDPICC discovery questions, built on Claude
+
 ## About me
 
 9+ years of B2B sales across data infrastructure, cloud, SaaS and cybersecurity, selling to enterprise and BFSI buyers in India, APAC, the US and Europe. I build AI into my own sales process so I can spend more time with customers.
