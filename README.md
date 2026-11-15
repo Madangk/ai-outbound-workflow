@@ -53,6 +53,7 @@ HubSpot · Clay · Claude (Anthropic) · Slack
 ## Related
 
 - [account-research-agent](https://github.com/Madangk/account-research-agent): one-page account briefs with MEDDPICC discovery questions, built on Claude
+- [meddpicc-deal-kit](https://github.com/Madangk/meddpicc-deal-kit): MEDDPICC scorecard, question bank and a Claude call-review prompt
 
 ## About me
 
