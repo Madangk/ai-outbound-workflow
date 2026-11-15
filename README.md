@@ -52,6 +52,7 @@ HubSpot · Clay · Claude (Anthropic) · Slack
 
 ## Related
 
+- [enterprise-sales-playbook](https://github.com/Madangk/enterprise-sales-playbook): full-cycle enterprise sales playbook with talk tracks, templates and a coaching kit
 - [account-research-agent](https://github.com/Madangk/account-research-agent): one-page account briefs with MEDDPICC discovery questions, built on Claude
 - [meddpicc-deal-kit](https://github.com/Madangk/meddpicc-deal-kit): MEDDPICC scorecard, question bank and a Claude call-review prompt
 
